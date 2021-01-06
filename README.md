@@ -1,2 +1,1 @@
-# myTestProject2
-strut2
+Backup
